@@ -1,0 +1,32 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "Minh Tran Anh hello"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How are you?"
+        },
+        {
+            "role": "user",
+            "content": "Minh Tran Anh hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there! \ud83d\ude0a"
+        },
+        {
+            "role": "user",
+            "content": "Minh Tran Anh what name"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm Pina! \ud83d\udc96"
+        },
+        {
+            "role": "user",
+            "content": "Minh Tran Anh do you know vietnam"
+        }
+    ]
+}
